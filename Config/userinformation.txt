@@ -1,4 +1,4 @@
-Resources\LocalMedia\ManoloProfilePicture.png
+https://github.com/AkromaGG/akromagg.github.io/blob/main/Resources/LocalMedia/ManoloProfilePicture.png?raw=true
 Manolo Ramírez
 BA in Digital Art Student @ Tecnológico de Monterrey
 Nuevo León, Mexico
