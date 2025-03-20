@@ -1,0 +1,13 @@
+Triangles: 
+
+Materials: 
+
+Texture Size: 
+
+Texel Density: 
+
+Workflow: ZBrush > Maya > Substance 3D Painter
+
+Target Engine: 
+
+Collaborators:

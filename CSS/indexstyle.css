@@ -12,12 +12,12 @@ html::-webkit-scrollbar {
 
 /* Hide scrollbar for IE, Edge */
 html {
-  -ms-overflow-style: none;  /* IE and Edge */
+  -ms-overflow-style: none; /* IE and Edge */
 }
 
-
 /* Body Styling */
-html, body {
+html,
+body {
   margin: 0;
   padding: 0;
   width: 100%;
@@ -47,7 +47,7 @@ h2 {
   font-size: 16px;
   margin: 0;
   color: grey;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   -webkit-user-select: none; /* Safari */
   user-select: none;
@@ -85,17 +85,18 @@ h2 {
   background-color: inherit;
   border: none;
   color: grey;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   text-decoration: none;
   cursor: pointer;
   padding: 10px;
   margin-right: 10px;
   font-size: 14px;
-  border-radius: .9em .9em 0 0;
+  border-radius: 0.9em 0.9em 0 0;
   transition: ease 0.5s;
 }
 
-.nav-button.active, .nav-button:hover {
+.nav-button.active,
+.nav-button:hover {
   background-color: #171717;
   color: #edb049;
 }
@@ -115,43 +116,43 @@ h2 {
   body {
     font-size: 14px; /* Adjust the base font size for better readability on small screens */
   }
-  
+
   h1 {
-      font-size: 18px; /* Adjust font size for mobile */
-      text-align: center; /* Center align text for better readability on mobile */
+    font-size: 18px; /* Adjust font size for mobile */
+    text-align: center; /* Center align text for better readability on mobile */
   }
 
   h2 {
-      font-size: 14px; /* Adjust font size for mobile */
-      text-align: center; /* Center align text for better readability on mobile */
+    font-size: 14px; /* Adjust font size for mobile */
+    text-align: center; /* Center align text for better readability on mobile */
   }
 
   .main-container {
-      overflow-y: auto; /* Ensure main container scrolls if necessary */
-      padding-top: 5px;/* Add padding for better spacing on mobile */
+    overflow-y: auto; /* Ensure main container scrolls if necessary */
+    padding-top: 5px; /* Add padding for better spacing on mobile */
   }
 
   .top-container {
-      padding-top: 5px; /* Adjust padding for mobile */
-      border-bottom: 1px solid #2e2e2e;
+    padding-top: 5px; /* Adjust padding for mobile */
+    border-bottom: 1px solid #2e2e2e;
   }
 
   .navigation-buttons {
     flex-direction: row; /* Stack navigation buttons vertically on mobile */
     gap: 0.5rem; /* Adjust gap for better spacing on mobile */
-}
+  }
 
-.nav-button {
+  .nav-button {
     font-size: 12px; /* Adjust font size for navigation buttons on mobile */
     padding: 8px; /* Reduce padding for better fit on mobile */
     margin-right: 0; /* Remove margin for better fit on mobile */
-    border-radius: .5em .5em 0 0; /* Adjust border radius for better look on mobile */
-}
+    border-radius: 0.5em 0.5em 0 0; /* Adjust border radius for better look on mobile */
+  }
 
   .bottom-container {
-      background-color: #171717;
-      padding: 8px; /* Adjust padding for mobile */
-      border-radius: 5px; /* Maintain border radius for consistent look */
-      margin-top: 0; /* Add margin at the top for spacing */
+    background-color: #171717;
+    padding: 8px; /* Adjust padding for mobile */
+    border-radius: 5px; /* Maintain border radius for consistent look */
+    margin-top: 0; /* Add margin at the top for spacing */
   }
 }

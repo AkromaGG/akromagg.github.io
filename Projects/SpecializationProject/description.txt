@@ -1,0 +1,9 @@
+Specialization Project - 3D Modelling & Digital Sculpture
+---
+Modelled High Poly & Textured in ZBrush, rendered in Maya.
+---
+ZBrush, Maya
+---
+Projects\SpecializationProject\ProjectMedia\Render_Sculpture.png
+---
+SpecializationProject.html
