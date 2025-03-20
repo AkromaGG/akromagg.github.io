@@ -1,0 +1,10 @@
+Specilization Project - 3D Modelling & Digital Sculpting
+---
+Sculpted High Poly in ZBrush, Textured with ZBrush (PolyPaint), Rendered in Maya.
+---
+ZBrush, Maya
+---
+thumbnail url (gets injected into your landing page) 
+---
+SpecializationProject.html
+
