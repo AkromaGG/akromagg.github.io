@@ -6,4 +6,4 @@ ZBrush, Maya, Substance 3D Painter
 ---
 Projects\Assignment\ProjectMedia\Kiyohime_render.jpg
 ---
-Assignment.html
+assignment.html

@@ -6,4 +6,4 @@ ZBrush, Maya
 ---
 Projects\SpecializationProject\ProjectMedia\Render_Sculpture.png
 ---
-SpecializationProject.html
+specializationproject.html

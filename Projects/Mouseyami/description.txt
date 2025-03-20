@@ -6,4 +6,4 @@ ZBrush, Maya, Substance 3D Painter, UE5
 ---
 Projects\Mouseyami\ProjectMedia\BearCloseUp.png
 ---
-Mouseyami.html
+mouseyami.html
