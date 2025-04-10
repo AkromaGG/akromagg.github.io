@@ -1,0 +1,37 @@
+{
+  "title": "Hand Painted Girl",
+  "description": "Modeled Hair & Dress, Unwrapped UVs, Textured & Rendered.",
+  "tags": ["ZBrush", "Maya", "Substance 3D Painter"],
+  "htmlFileName": "handpaintedgirl.html",
+  "thumbnail": "/Projects/HandPaintedGirl/ProjectMedia/Kiyohime_close_up.jpg",
+  "media": [
+    {
+      "type": "image",
+      "url": "/Projects/HandPaintedGirl/ProjectMedia/Kiyohime_render.jpg",
+      "description": ""
+    },
+    {
+      "type": "image",
+      "url": "/Projects/HandPaintedGirl/ProjectMedia/Kiyohime_back_fs.jpg",
+      "description": ""
+    },
+    {
+      "type": "image",
+      "url": "/Projects/HandPaintedGirl/ProjectMedia/Kiyohime_close_up.jpg",
+      "description": ""
+    },
+    {
+      "type": "image",
+      "url": "/Projects/HandPaintedGirl/ProjectMedia/Kiyohime_side2.jpg",
+      "description": ""
+    },
+    {
+      "type": "image",
+      "url": "/Projects/HandPaintedGirl/ProjectMedia/Kiyohime_back.jpg",
+      "description": ""
+    }
+  ],
+  "stats": {
+    "Workflow": "ZBrush > Maya > Substance 3D Painter"
+  }
+}

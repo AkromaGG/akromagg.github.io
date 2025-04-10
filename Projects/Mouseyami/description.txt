@@ -1,9 +1,0 @@
-Short Film - Welcome to Mouseyami
----
-I was responsible for 1. Modelling the main character & 2. All of the Unreal Engine implementation, including but not limited to: importing all assets & textures, troubleshooting our rigs & animations due to unforseen compatibility issues & learning how to use Alembic Cache as a solution, snow & mist simulation using the Niagara Particle System, and finally, lighting & rendering.
----
-ZBrush, Maya, Substance 3D Painter, UE5
----
-Projects\Mouseyami\ProjectMedia\BearCloseUp.png
----
-mouseyami.html

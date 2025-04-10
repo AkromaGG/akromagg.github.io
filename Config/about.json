@@ -1,0 +1,38 @@
+{
+  "summary": "lorem ipsum",
+  "recommendations": [
+    {
+      "name": "Add name here",
+      "avatar": "https://files.facepunch.com/tombutters/1b2211b1/100100BandicootPrime.png",
+      "position": "Add role here",
+      "date": "Add date here",
+      "quote": "Add recommendation letter here"
+    },
+    {
+      "name": "Add name here",
+      "avatar": "https://files.facepunch.com/tom/1b/zMeX7WNwhG.png",
+      "position": "Add role here",
+      "date": "Add date here",
+      "quote": "Add recommendation letter here"
+    }
+  ],
+  "skills": [
+    "3D Modelling",
+    "Sculpting",
+    "Texturing",
+    "High Poly Modelling",
+    "UV-Unwrapping",
+    "Retopology",
+    "Hand-painted Texturing"
+  ],
+  "software": ["ZBrush", "Substance 3D Painter", "Maya", "Marmoset Toolbag"],
+  "productions": [
+    {
+      "title": "lorem",
+      "company": "ipsum",
+      "time": "2024 - present",
+      "thumbnail": "https://files.facepunch.com/tom/1b/gm.jpg",
+      "description": "add description"
+    }
+  ]
+}

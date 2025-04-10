@@ -1,0 +1,76 @@
+{
+  "title": "Welcome to Mouseyami",
+  "description": "I was responsible for 1. Modeling the main character & 2, All of the Unreal Engine Implementation, including but not limited to: importing all assets & textures, troubleshooting our rigs & animations due to unforseen compatibility issues by learning how to use Alembic Cache as a solution, snow & mist simulation using the Niagara Particle System, and finally, lighting & rendering.",
+  "tags": ["ZBrush", "Maya", "Substance 3D Painter", "Unreal Engine 5"],
+  "htmlFileName": "mouseyami.html",
+  "thumbnail": "Projects/Mouseyami/ProjectMedia/BearCloseUp.png",
+  "media": [
+    {
+      "type": "video",
+      "url": "/Projects/Mouseyami/ProjectMedia/Mouseyami.mp4",
+      "description": ""
+    },
+    {
+      "type": "image",
+      "url": "/Projects/Mouseyami/ProjectMedia/CloseUp.png",
+      "description": ""
+    },
+    {
+      "type": "image",
+      "url": "/Projects/Mouseyami/ProjectMedia/EntranceView.png",
+      "description": ""
+    },
+    {
+      "type": "image",
+      "url": "/Projects/Mouseyami/ProjectMedia/BearCloseUp.png",
+      "description": ""
+    },
+    {
+      "type": "image",
+      "url": "/Projects/Mouseyami/ProjectMedia/BirdsEyeView.png",
+      "description": ""
+    },
+    {
+      "type": "image",
+      "url": "/Projects/Mouseyami/ProjectMedia/Mouseyami Poster.jpg",
+      "description": ""
+    },
+    {
+      "type": "image",
+      "url": "/Projects/Mouseyami/ProjectMedia/BearFrontWF.png",
+      "description": ""
+    },
+    {
+      "type": "image",
+      "url": "/Projects/Mouseyami/ProjectMedia/BearBackWF.png",
+      "description": ""
+    },
+    {
+      "type": "image",
+      "url": "/Projects/Mouseyami/ProjectMedia/BearFaceWF.png",
+      "description": ""
+    },
+    {
+      "type": "image",
+      "url": "/Projects/Mouseyami/ProjectMedia/BearFaceSideWF.png",
+      "description": ""
+    },
+    {
+      "type": "image",
+      "url": "/Projects/Mouseyami/ProjectMedia/BearCoatFrontWF.png",
+      "description": ""
+    },
+    {
+      "type": "image",
+      "url": "/Projects/Mouseyami/ProjectMedia/BearCoatBackWF.png",
+      "description": ""
+    }
+  ],
+  "stats": {
+    "Workflow": "ZBrush > Maya > Substance 3D Painter > UE5",
+    "Collaborators": {
+      "value": "8",
+      "info": "DistritoTec, Axel A., Camila P., Candy O., Renato R., Kali H., Sara S., Zahira Z."
+    }
+  }
+}

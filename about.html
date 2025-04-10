@@ -3,8 +3,9 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Art of Akroma About</title>
+    <title>About Akroma</title>
     <link rel="stylesheet" href="../CSS/aboutstyle.css" />
+    <link rel="stylesheet" href="CSS/indexstyle.css?v=1.0" />
     <link rel="stylesheet" href="../CSS/userinformationstyle.css" />
     <link rel="stylesheet" href="../CSS/softwareskillsstyle.css" />
     <link rel="stylesheet" href="../CSS/recommendationsstyle.css" />
@@ -27,14 +28,20 @@
       type="image/png"
     />
   </head>
+
   <body>
     <div class="top-container">
       <!-- Placeholder div where user information will dynamically be added -->
       <div class="user-info-panel">
         <!-- User information will be injected here by JS -->
         <div class="navigation-buttons">
-          <a href="index.html" class="nav-button">Portfolio</a>
-          <a href="about.html" class="nav-button">About</a>
+          <a href="index.html" class="nav-button" id="nav-portfolio"
+            >Portfolio</a
+          >
+          <a href="articles.html" class="nav-button" id="nav-articles"
+            >Articles</a
+          >
+          <a href="about.html" class="nav-button" id="nav-about">About</a>
         </div>
       </div>
     </div>
@@ -45,26 +52,29 @@
           <p><!-- Summary will be dynamically inserted here --></p>
         </div>
         <hr />
-        &nbsp; &nbsp; &nbsp;
+
         <h1 class="panel-title">Recommendations</h1>
         <div class="recommendations-panel">
           <div class="recommendation-content">
             <!-- Recommendations get inserted here -->
-            <div class="recommendation-dots" id="recommendation-dots"></div>
           </div>
+          <div class="recommendation-dots" id="recommendation-dots"></div>
         </div>
         <hr />
-        &nbsp; &nbsp; &nbsp;
-        <h1 class="panel-title">Software Knowledge</h1>
-        <div class="skills-panel">
-          <div class="software-tag-container">
-            <!-- Software tags will be dynamically inserted here -->
-          </div>
 
-          &nbsp; &nbsp; &nbsp;
+        <!-- Software Knowledge Section -->
+        <div class="section-panel" id="software-panel">
+          <h1 class="panel-title">Software Knowledge</h1>
+          <div class="software-tag-container">
+            <!-- Software tags will be inserted here -->
+          </div>
+        </div>
+
+        <!-- Skills Section -->
+        <div class="section-panel" id="skills-panel">
           <h1 class="panel-title">Skills</h1>
           <div class="software-tag-container">
-            <!-- Skills tags will be dynamically inserted here -->
+            <!-- Skills tags will be inserted here -->
           </div>
         </div>
         <hr />
@@ -77,11 +87,9 @@
         <!-- Production cards will be added here -->
       </div>
     </div>
-    <script src="../JS/summary.js"></script>
-    <script src="../JS/skills.js"></script>
     <script src="../JS/userinformation.js"></script>
-    <script src="../JS/recommendations.js"></script>
-    <script src="../JS/productions.js"></script>
+    <script src="../JS/about.js"></script>
+
     <script>
       // JavaScript to add 'active' class to the current page's navigation button
       document.addEventListener("DOMContentLoaded", function () {

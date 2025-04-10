@@ -1,0 +1,46 @@
+{
+  "title": "International Book Fair of Monterrey - Stand Concept Collaboration",
+  "description": "My team collaborated with the IBFM committee to create a concept that may be used as our University's official stand for the 2025 edition of the fair.",
+  "tags": ["Maya", "Substance 3D Painter", "Unreal Engine 5"],
+  "htmlFileName": "standfil.html",
+  "thumbnail": "Projects/StandFIL/ProjectMedia/Agora.jpeg",
+  "media": [
+    {
+      "type": "video",
+      "url": "/Projects/StandFIL/ProjectMedia/Render_StandFIL_FINAL USAR ESTE.mp4",
+      "description": ""
+    },
+    {
+      "type": "image",
+      "url": "/Projects/StandFIL/ProjectMedia/frente.jpeg",
+      "description": ""
+    },
+    {
+      "type": "image",
+      "url": "/Projects/StandFIL/ProjectMedia/detras.jpeg",
+      "description": ""
+    },
+    {
+      "type": "image",
+      "url": "/Projects/StandFIL/ProjectMedia/agora1.jpeg",
+      "description": ""
+    },
+    {
+      "type": "image",
+      "url": "/Projects/StandFIL/ProjectMedia/agora2.jpeg",
+      "description": ""
+    },
+    {
+      "type": "image",
+      "url": "/Projects/StandFIL/ProjectMedia/Agora.jpeg",
+      "description": ""
+    }
+  ],
+  "stats": {
+    "Workflow": "Maya > Substance 3D Painter > Unreal Engine 5",
+    "Collaborators": {
+      "value": "6",
+      "info": "Fería Internacional del Libro de Monterrey, Axel A., Vera M., Mariana E., Melissa M., Sofía A."
+    }
+  }
+}

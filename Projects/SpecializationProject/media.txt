@@ -1,7 +1,0 @@
-ProjectMedia\Render_Sculpture.png
-
-ProjectMedia\TurnTable 16s.mp4
-
-ProjectMedia\Render_Prop_Backpack.png
-
-ProjectMedia\Render_Prop_Pokeball.png

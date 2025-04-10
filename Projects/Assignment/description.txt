@@ -1,9 +1,0 @@
-University Assignment - Character Concept
----
-Modelled Hair & Dress, Unwrapped UVs, Textured & Rendered.
----
-ZBrush, Maya, Substance 3D Painter
----
-Projects\Assignment\ProjectMedia\Kiyohime_render.jpg
----
-assignment.html

@@ -1,0 +1,16 @@
+Here goes the title that you gotta paste to "title" in the articles.json file
+---
+Everything below the 3 dashes is structured kinda like in Notion or Obsidian, you can also add images, videos or gifs
+
+https://files.facepunch.com/tom/1b/what%20a%20pain%2C%20right_.gif
+
+* AO → ambient_occlusion
+* curve → curvature
+* (any) id maps → id
+* normal → normal_base
+* thickness → thickness
+* normalobj → world_space_normals 
+
+https://files.facepunch.com/tom/1b/Correct%20suffix%20names.png
+
+https://files.facepunch.com/tom/1b/Baked%20Maps%20auto%20import.mp4

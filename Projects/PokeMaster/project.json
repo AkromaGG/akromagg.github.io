@@ -1,0 +1,32 @@
+{
+  "title": "Specialization Project",
+  "description": "This project was my first full immersion in 3D Character Art, so being able to combine that with my passion for Pokemon has given this piece a lot of sentimental value. This was fully sculpted and hand-painted in ZBrush, then rendered in Maya using Arnold. ",
+  "tags": ["ZBrush", "Maya"],
+  "htmlFileName": "pokemaster.html",
+  "thumbnail": "Projects/PokeMaster/ProjectMedia/Render_Sculpture.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "/Projects/PokeMaster/ProjectMedia/Render_Sculpture.png",
+      "description": ""
+    },
+    {
+      "type": "video",
+      "url": "/Projects/PokeMaster/ProjectMedia/TurnTable 16s.mp4",
+      "description": ""
+    },
+    {
+      "type": "image",
+      "url": "/Projects/PokeMaster/ProjectMedia/Render_Prop_Backpack.png",
+      "description": ""
+    },
+    {
+      "type": "image",
+      "url": "/Projects/PokeMaster/ProjectMedia/Render_Prop_Pokeball.png",
+      "description": ""
+    }
+  ],
+  "stats": {
+    "Workflow": "ZBrush > Maya"
+  }
+}
