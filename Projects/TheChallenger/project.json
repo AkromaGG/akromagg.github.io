@@ -1,0 +1,25 @@
+{
+  "title": "Thesis - The Challenger",
+  "description": "As the final project of my BA in Digital Arts, I have (WIP) to create a High Poly model using ZBrush, Retopologize using Maya, Bake using Marmoset, Texture using Substance 3D Painter, Pose and Render in Maya",
+  "tags": ["ZBrush", "Maya", "Substance 3D Painter", "Marmoset Toolbag"],
+  "htmlFileName": "thechallenger.html",
+  "thumbnail": "/Projects/TheChallenger/ProjectMedia/HP Face front view.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "/Projects/TheChallenger/ProjectMedia/HP FrontSideBack View.png",
+      "description": ""
+    },
+    {
+      "type": "image",
+      "url": "/Projects/TheChallenger/ProjectMedia/HP Face FrontSideBack View.png",
+      "description": ""
+    },
+    {
+      "type": "image",
+      "url": "/Projects/TheChallenger/ProjectMedia/Retopo Progress FrontSideBack View.png",
+      "description": ""
+    }
+  ],
+  "stats": {}
+}

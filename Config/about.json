@@ -1,26 +1,19 @@
 {
-  "summary": "lorem ipsum",
+  "summary": "I'm a Digital Arts Student and future 3D Character Artist, I'm passionate, I'm dedicated, I'm resilient, I'm someone who wants to learn, help and grow with everyone I meet. As the lyrics of STAR WALKIN' say, 'Don't ever say it's over if I'm breathing / Racing to the moonlight and I'm speeding / I'm headed to the stars, ready to go far / I'm star walking'.",
   "recommendations": [
     {
-      "name": "Add name here",
-      "avatar": "https://files.facepunch.com/tombutters/1b2211b1/100100BandicootPrime.png",
-      "position": "Add role here",
-      "date": "Add date here",
-      "quote": "Add recommendation letter here"
-    },
-    {
-      "name": "Add name here",
-      "avatar": "https://files.facepunch.com/tom/1b/zMeX7WNwhG.png",
-      "position": "Add role here",
-      "date": "Add date here",
-      "quote": "Add recommendation letter here"
+      "name": "",
+      "avatar": "",
+      "position": "",
+      "date": "",
+      "quote": ""
     }
   ],
   "skills": [
-    "3D Modelling",
+    "3D Modeling",
     "Sculpting",
     "Texturing",
-    "High Poly Modelling",
+    "High Poly Modeling",
     "UV-Unwrapping",
     "Retopology",
     "Hand-painted Texturing"
@@ -31,7 +24,7 @@
       "title": "lorem",
       "company": "ipsum",
       "time": "2024 - present",
-      "thumbnail": "https://files.facepunch.com/tom/1b/gm.jpg",
+      "thumbnail": "",
       "description": "add description"
     }
   ]
